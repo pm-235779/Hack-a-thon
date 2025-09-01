@@ -1,4 +1,4 @@
-# APKShield - Fake Banking APK Detection
+# SCAMSHIELD - Fake Banking APK Detection
 
 A modern cybersecurity web application that detects fake/malicious banking APKs using machine learning and static analysis.
 
